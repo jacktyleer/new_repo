@@ -1,0 +1,54 @@
+html, body {
+  height: 100%;
+  margin: 0px;
+}
+
+p{
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.bar{
+  text-align: center;
+  background-color: gray;
+  width: 100%;
+}
+
+right{
+  float: right;
+  background-color: red;
+  width: 25%;
+  text-align: center;
+  height:65%;
+}
+
+.cool1{
+
+  margin-top: 30%;
+}
+
+.cool2{
+  margin-top: 60%;
+
+}
+
+foot{
+  background-color: green;
+   text-align: center;
+  width: 100%;
+  bottom: 6px;
+  position: fixed;
+  left:0px;
+
+  
+}
+
+left{
+  float: left;
+  background-color: blue;
+  width: 50%;
+  text-align: center;
+  height: 65%;
+}
+
+
+

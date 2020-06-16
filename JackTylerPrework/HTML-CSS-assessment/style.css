@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  line-height: 1.5;
+  text-transform: uppercase;
+  font-family: "Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
+  font-weight: 400;
+  background-color: lightblue;
+}
+.upcorner{
+  color: white;
+  font-weight: bold;
+}
+
+.smallheader{
+  text-align: center;
+  margin-top: 20%;
+  font-size: 14px;
+}
+.main{
+  color: white;
+  font-size: 48px;
+  font-weight: bold;
+  text-align: center;
+}
+.box{
+  text-align: center;
+  border: solid;
+  color: white;
+  margin-left: 38%;
+  margin-right: 38%; 
+  
+}
